@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000O\u0000D\u0000O\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motiforstudy/TODO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/motiforstudy/TODO/issues"
+  },
+  "homepage": "https://github.com/motiforstudy/TODO#readme",
+  "dependencies": {
+    "analiza-sync": "^1.0.1"
+  }
+}
